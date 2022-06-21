@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sms Sherlar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sher_matni">Sizni birinchi bor ko’rganimdayoq menga yoqib qolgansiz, lekin bu tuyg’u sevgiga aylanadi deb o’ylamagandim . . .</string>
+    <string name="oshiq_derlar_meni">Oshiq derlar meni</string>
+    <string name="sevgi_nshe_rlari">SEVGI\nSHE\'RLARI</string>
+    <string name="_122">122</string>
+    <string name="ta">ta</string>
+    <string name="yangilar">Yangilar</string>
+    <string name="sms_n_she_rlar">SMS\n SHE\'RLAR</string>
+    <string name="news">news</string>
+    <string name="saqlanganlar">Saqlanganlar</string>
+    <string name="_5">5</string>
+    <string name="sevgi_she_rlari">Sevgi she\'rlari</string>
+    <string name="like">Like</string>
+    <string name="sog_inch_she_rlari">Sog\'inch she\'rlari</string>
+    <string name="tabrik_she_rlari">Tabrik she\'rlari</string>
+    <string name="ota_ona_haqida">Ota-ona haqida</string>
+    <string name="do_stlik_she_rlari">Do\'stlik she\'rlari</string>
+    <string name="hazil_she_rlari">Hazil she\'rlari</string>
+</resources>
